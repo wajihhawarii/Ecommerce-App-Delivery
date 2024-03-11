@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436676207390",
+    "project_id": "deliveryn-69a88",
+    "storage_bucket": "deliveryn-69a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436676207390:android:a309494387ea0b0ff19f0f",
+        "android_client_info": {
+          "package_name": "com.example.deliveryappn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXr48oQcRCgc4mhpdKCdCrC-M7x8Uhkx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
